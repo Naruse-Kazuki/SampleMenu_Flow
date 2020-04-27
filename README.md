@@ -1,4 +1,4 @@
-# samplemenuflow
+# SampleMenu_Flow
 
  Flow class sample menu.
 
